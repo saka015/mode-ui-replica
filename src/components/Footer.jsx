@@ -59,7 +59,7 @@ const Footer = () => {
         &copy;2023{" "}
         <a
           target="_saka"
-          href="https://saka015.bio.link/"
+          href="https://kamal-nayan-dev-portfolio.vercel.app/"
           className="text-violet-500 font-bold"
         >
           saka_codes
